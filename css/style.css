@@ -209,7 +209,7 @@ label {
 }
 
 .modal-content {
-	background-color: darkgreen;
+	background:rgba(0,120,0,0.8);
 	color: white;
 }
 
